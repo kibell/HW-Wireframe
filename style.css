@@ -56,7 +56,7 @@ float: left;
 width: 495px;
 height:210px;
 
-margin:2px;
+margin:6px;
     }
 
 article
@@ -91,7 +91,7 @@ aside
     width: 425px;
     height:210px;
     float:right;
-    margin:2px;
+    margin:6px;
     
 
 }
@@ -101,11 +101,11 @@ footer
     background:#ebebeb;
     text-align: center;
     padding: 0;
-    float:left;
-    width: 100%;
+    
     height: 100px;
   
     margin: 2px;
+    
 
 
 }
